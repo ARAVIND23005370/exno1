@@ -119,7 +119,8 @@ sns.boxplot(x=df_no_outliers['Value'])
 # OUTPUT
 # Data Cleaning Process
 ## READ_CSV
-![output](./csv.read.png)
+![csv read](https://github.com/ARAVIND23005370/exno1/assets/148514836/55d8ad9f-0426-454d-9143-9714e007506f)
+
 ## HEAD
 ![output](./heads.png)
 ## INFO
