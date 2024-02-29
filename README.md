@@ -172,7 +172,8 @@ sns.boxplot(x=df_no_outliers['Value'])
 ![out12](https://github.com/ARAVIND23005370/exno1/assets/148514836/f5a53c68-b550-42e3-a9ea-77c2fae0142a)
 
 ## Boxplot to check if outliers are removed
-![out13](https://github.com/ARAVIND23005370/exno1/assets/148514836/f17565d6-ebfe-45d1-962f-d6972bee63a8)
+![out5](https://github.com/ARAVIND23005370/exno1/assets/148514836/58d88dbb-2c8a-4a3c-9a0f-8552423541ae)
+
 
 # using Z-Score Method
 ## Data
