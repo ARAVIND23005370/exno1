@@ -187,12 +187,13 @@ sns.boxplot(x=df_no_outliers['Value'])
 ![out7](https://github.com/ARAVIND23005370/exno1/assets/148514836/707b4849-06db-49d6-95a1-48220dfe21a2)
 
 ## Remove outliers
-![out13](https://github.com/ARAVIND23005370/exno1/assets/148514836/1728ded3-3462-480b-8435-79f4705662f8)
+
+![out12](https://github.com/ARAVIND23005370/exno1/assets/148514836/86f54e8c-9843-41c3-8e29-36f9d25280a3)
 
 ## Boxplot to check if outliers are removed
 
 
-
+![out13](https://github.com/ARAVIND23005370/exno1/assets/148514836/1728ded3-3462-480b-8435-79f4705662f8)
 
 
 # Result
