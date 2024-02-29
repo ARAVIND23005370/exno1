@@ -180,7 +180,8 @@ sns.boxplot(x=df_no_outliers['Value'])
 ![out10](https://github.com/ARAVIND23005370/exno1/assets/148514836/7940f266-c7ba-48a0-aa9b-442a7dddb139)
 
 ## Boxplot to detect outliers
-![out11](https://github.com/ARAVIND23005370/exno1/assets/148514836/e42dc59f-1439-477d-9e20-490005b4924f)
+![out6](https://github.com/ARAVIND23005370/exno1/assets/148514836/7c3a3823-045e-4ae1-ad6e-4aa9ad826ded)
+
 
 ## Z Score Method
 ![out7](https://github.com/ARAVIND23005370/exno1/assets/148514836/707b4849-06db-49d6-95a1-48220dfe21a2)
