@@ -122,19 +122,26 @@ sns.boxplot(x=df_no_outliers['Value'])
 ![csv read](https://github.com/ARAVIND23005370/exno1/assets/148514836/55d8ad9f-0426-454d-9143-9714e007506f)
 
 ## HEAD
-![output](./heads.png)
+![heads](https://github.com/ARAVIND23005370/exno1/assets/148514836/3083695f-be75-4d66-b98d-52728348633b)
+
 ## INFO
-![output](./info.png)
+![info](https://github.com/ARAVIND23005370/exno1/assets/148514836/cd2d226f-e041-4859-a391-d01073bcafc0)
+
 ## DESCRIBE
-![output](./DESCRIBE.png)
+![DESCRIBE](https://github.com/ARAVIND23005370/exno1/assets/148514836/3dd3d646-062f-4f61-85bf-adc38bae3501)
+
 ## ISNULL
-![output](./isnull.png)
+![isnull](https://github.com/ARAVIND23005370/exno1/assets/148514836/51f4b9b8-7b7d-4491-8bf2-136c5394010f)
+
 ## ISNULL.SUM
-![output](./sums.png)
+![sums](https://github.com/ARAVIND23005370/exno1/assets/148514836/cca31b84-1d62-42f0-9c80-72e2d146a376)
+
 ## Fill null values with a constant value "O"
-![output](./out15.png)
+![out16](https://github.com/ARAVIND23005370/exno1/assets/148514836/264203e8-181c-44ea-8bb9-8d3c660c4e55)
+
 ## FILL NULL VALUES WITH ffill or bfill METHOD
-![output](./out16.png)
+![out16](https://github.com/ARAVIND23005370/exno1/assets/148514836/a76f988c-893e-4727-a833-915ed8d597bd)
+
 ## MODE
 ![output](./mode.png)
 ## MEAN
