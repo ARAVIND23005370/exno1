@@ -137,43 +137,58 @@ sns.boxplot(x=df_no_outliers['Value'])
 ![sums](https://github.com/ARAVIND23005370/exno1/assets/148514836/cca31b84-1d62-42f0-9c80-72e2d146a376)
 
 ## Fill null values with a constant value "O"
-![out16](https://github.com/ARAVIND23005370/exno1/assets/148514836/264203e8-181c-44ea-8bb9-8d3c660c4e55)
+![out15](https://github.com/ARAVIND23005370/exno1/assets/148514836/12f73c6e-5865-480c-b039-55481efbf294)
+
 
 ## FILL NULL VALUES WITH ffill or bfill METHOD
 ![out16](https://github.com/ARAVIND23005370/exno1/assets/148514836/a76f988c-893e-4727-a833-915ed8d597bd)
 
 ## MODE
-![output](./mode.png)
+![mode](https://github.com/ARAVIND23005370/exno1/assets/148514836/edcc17fc-6a07-4b25-b3aa-d282bf55460c)
+
 ## MEAN
-![output](./mean.png)
+![mean](https://github.com/ARAVIND23005370/exno1/assets/148514836/d2a47b81-e26f-4bbc-9b96-443467b289c3)
+
 ## MEDIAN
-![output](./median.png)
+![median](https://github.com/ARAVIND23005370/exno1/assets/148514836/0e6c34b4-ac45-4b56-8dcb-5314176941eb)
+
 ## AFTER CLEANING
-![output](./out14.png)
+![out14](https://github.com/ARAVIND23005370/exno1/assets/148514836/c6562fc1-728c-4b03-af97-beae082440de)
+
 
 # Outlier Detection and Removal
 # using IQR Methed
 ##  Data
-![output](./out1.png)
+![out1](https://github.com/ARAVIND23005370/exno1/assets/148514836/061096f3-ddb6-46ed-ae0e-28865c4b5984)
+
+
 ##  Boxplot to detect outliers
-![output](./out3.png)
+![out3](https://github.com/ARAVIND23005370/exno1/assets/148514836/8f46656a-295f-456a-83d6-5af0526eb779)
+
 ## IQR Method
-![output](./out9.png)
+![out9](https://github.com/ARAVIND23005370/exno1/assets/148514836/984ff3db-8600-4acf-9188-19cb6357c1a3)
+
 ##  Remove outliers
-![output](./out4.png)
+![out12](https://github.com/ARAVIND23005370/exno1/assets/148514836/f5a53c68-b550-42e3-a9ea-77c2fae0142a)
+
 ## Boxplot to check if outliers are removed
-![output](./out5.png)
+![out13](https://github.com/ARAVIND23005370/exno1/assets/148514836/f17565d6-ebfe-45d1-962f-d6972bee63a8)
+
 # using Z-Score Method
 ## Data
-![output](./out10.png)
+![out10](https://github.com/ARAVIND23005370/exno1/assets/148514836/7940f266-c7ba-48a0-aa9b-442a7dddb139)
+
 ## Boxplot to detect outliers
-![output](./out6.png)
+![out11](https://github.com/ARAVIND23005370/exno1/assets/148514836/e42dc59f-1439-477d-9e20-490005b4924f)
+
 ## Z Score Method
-![output](./out7.png)
+![out7](https://github.com/ARAVIND23005370/exno1/assets/148514836/707b4849-06db-49d6-95a1-48220dfe21a2)
+
 ## Remove outliers
-![output](./out12.png)
+![out13](https://github.com/ARAVIND23005370/exno1/assets/148514836/1728ded3-3462-480b-8435-79f4705662f8)
+
 ## Boxplot to check if outliers are removed
-![output](./out13.png)
+
 
 
 
